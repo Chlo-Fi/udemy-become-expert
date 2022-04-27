@@ -1,2 +1,6 @@
 Path for Terminal
-/mnt/c/Users/14805/iCloudDrive/Documents/Career/Git/Udemy
+/mnt/c/Users/14805/iCloudDrive/Documents/Career/Git/Udemy/udemy-become-expert
+
+Creating Personal Token:
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+

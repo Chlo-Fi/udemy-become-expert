@@ -1,0 +1,2 @@
+Path for Terminal
+/mnt/c/Users/14805/iCloudDrive/Documents/Career/Git/Udemy
